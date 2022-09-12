@@ -14,5 +14,3 @@ Pontos que tive facilidade:
 Formatação de texto
 Replica de site original.
 
-link do site:
- https://rodrigodenner.github.io/Bolo-Simples/ 
