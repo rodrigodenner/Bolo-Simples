@@ -3,12 +3,12 @@
 body{
     
     font-family: Arial, Helvetica, sans-serif;
-    background-image: linear-gradient( to right, #D9C0A3, #BF8C6F );
+    background-image: linear-gradient( to left, #D9C0A3, #BF8C6F );
 }
 main{
     background-color: white;
      border-radius: 10px;
-      box-shadow: 5px 5px  5px #666c70af;
+      box-shadow: 0px 5px 5px black;
     width: 600px;
     padding: 20px;
     margin: auto;
@@ -59,7 +59,7 @@ button{
     margin-left: 50px;
     margin-top: 20px;
     margin-bottom: 10px;
-    background-image: linear-gradient( to right, #D9C0A3, #BF8C6F );
+    background-image: linear-gradient( to left, #d3b28c, #bd815e );
     color: #fff;
     border: none;
     border-radius: 22px;
@@ -70,7 +70,8 @@ button{
 }
 
 button:hover{
-    background-color: #73412F;
+    background-color: #ff6a28;
+    transform: translate(0.5s);
     
 
 }
